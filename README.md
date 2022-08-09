@@ -3,8 +3,6 @@
  
 # Decompiled By MAHIN AL- HASAN
  
-# Youtube : https://youtube.com/channel/UC3wMDs7a2HF8b2uLXlRx2bw
- 
 # uncompyle6 version 
  
 # Original written By MAHIN AL- HASAN
